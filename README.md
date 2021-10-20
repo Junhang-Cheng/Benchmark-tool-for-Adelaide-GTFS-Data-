@@ -1,6 +1,6 @@
 # Benchmark-tool-for-Adelaide-GTFS-Data-
 
-This resposity is a master research project for the University of Adelaide 
+This respository is a master research project for the University of Adelaide 
 
 # Time_Expend Dijkstra
 The Dijkstra.py is written in Python3, only three GTFS files are required:  stop_time.txt,stops.txt and trips.txt
